@@ -1,0 +1,3 @@
+module ResortJpgsToYearMonthFolders
+  VERSION = "0.1.0"
+end

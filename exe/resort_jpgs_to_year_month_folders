@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "resort_jpgs_to_year_month_folders"
